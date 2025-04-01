@@ -2,8 +2,7 @@
 
 A simple and interactive application for managing a collection of books, built using **React** and **Node.js** (MERN stack). This app allows users to add, view, and remove books from their collection.
 
-![Image](https://github.com/user-attachments/assets/4409acbf-0c72-4830-a463-305ee735ef7a)
-![Image](https://github.com/user-attachments/assets/3753126d-c082-4341-b9da-66d33801703a)
+![Image](https://github.com/user-attachments/assets/e5173ffa-3930-43cd-9062-f172d602d4a4) ![Image](https://github.com/user-attachments/assets/646dad61-2f7c-4803-8c73-390f8529e76f)
 
 ## Table of Contents
 
